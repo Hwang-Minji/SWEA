@@ -1,4 +1,4 @@
-/* 2819번: 격자판의 숫자 이어 붙이기 */
+/* 2819. 격자판의 숫자 이어 붙이기 */
 
 #include <cstdio>
 using namespace std;
