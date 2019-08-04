@@ -1,4 +1,4 @@
-/* 6900번: 주혁이의 복권 당첨 */
+/* 6900. 주혁이의 복권 당첨 */
 
 #include <cstdio>
 using namespace std;
