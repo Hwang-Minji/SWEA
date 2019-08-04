@@ -1,4 +1,4 @@
-/* 4012번: [모의 SW 역량테스트] 요리사 */
+/* 4012. [모의 SW 역량테스트] 요리사 */
 
 #include <cstdio>
 using namespace std;
