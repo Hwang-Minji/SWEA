@@ -1,4 +1,4 @@
-/* 2806번: N-Queen */
+/* 2806. N-Queen */
 
 #include <cstdio>
 using namespace std;
