@@ -1,4 +1,4 @@
-/* 5948번: 새샘이의 7-3-5 게임 */
+/* 5948. 새샘이의 7-3-5 게임 */
 
 #include <cstdio>
 using namespace std;
