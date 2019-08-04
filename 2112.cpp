@@ -1,4 +1,4 @@
-/* 2112번: [모의 SW 역량테스트] 보호 필름 */
+/* 2112. [모의 SW 역량테스트] 보호 필름 */
 
 #include <cstdio>
 using namespace std;
