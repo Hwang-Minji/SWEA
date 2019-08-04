@@ -1,4 +1,4 @@
-/* 5550번: 나는 개구리로소이다 */
+/* 5550. 나는 개구리로소이다 */
 
 #include <cstdio>
 #include <string.h>
