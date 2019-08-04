@@ -1,4 +1,4 @@
-/* 7087번: 문제 제목 붙이기 */
+/* 7087. 문제 제목 붙이기 */
 
 #include <cstdio>
 using namespace std;
