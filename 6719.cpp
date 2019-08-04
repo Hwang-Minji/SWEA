@@ -1,4 +1,4 @@
-/* 6719번: 성수의 프로그래밍 강좌 신청 */
+/* 6719. 성수의 프로그래밍 강좌 신청 */
 
 #include <cstdio>
 #include <algorithm>
