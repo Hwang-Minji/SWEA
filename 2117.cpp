@@ -1,4 +1,4 @@
-/* 2117번: [모의 SW 역량테스트] 홈 방범 서비스 */
+/* 2117. [모의 SW 역량테스트] 홈 방범 서비스 */
 
 #include <cstdio>
 using namespace std;
